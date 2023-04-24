@@ -47,4 +47,8 @@ A continuacion se creara el directorio `curso-react` los siguientes archivos:
 `package.json:` <br>
 **Es informacion sobre el "módulo" o paquete, tendrás que llenar algunos campos para poder llenar el formato.**
 ***
+A continuación iniciamos el ambiente de desarrollo con el comando:
+> npm start app
+
+Esto iniciará un servidor en el puerto 3000 de nuestro localhost, para acceder a la app "goglea" [localhost:3000](https://localhost:3000)
 
